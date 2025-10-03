@@ -1,3 +1,5 @@
+// Name: Fadhlulloh Nurul Fatih
+
 package com.example.basicscodelab
 
 import androidx.compose.foundation.BorderStroke
@@ -295,3 +297,4 @@ fun CalculatorPreview() {
         CalculatorScreen.SetupLayout()
     }
 }
+
